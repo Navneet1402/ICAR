@@ -24,7 +24,8 @@ const Comp4 = () => {
 
     
         <div className="text-center text-sm white0">
-          <p>Designed with ❤️ by BOOTGROW SOLUTIONS LLP</p>
+          <p>© 2021 ICAR - Indian Institute of Sugarcane Research  </p>
+
         </div>
       </div>
     </footer>
